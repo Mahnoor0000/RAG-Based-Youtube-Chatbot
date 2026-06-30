@@ -1,0 +1,36 @@
+youtube-transcript-api 
+langchain-community 
+langchain-openai
+faiss-cpu 
+tiktoken 
+python-dotenv
+langchain-core
+langchain-experimental
+torch
+langchain-huggingface
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Groq Integration
+langchain-groq
+
+
+numpy
+scikit-learn
+torch
+pypdf
+bs4
+
+
+chromadb
+streamlit
